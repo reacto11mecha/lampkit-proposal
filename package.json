@@ -1,0 +1,22 @@
+{
+  "name": "lampkit-proposal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/lampkit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reacto11mecha/lampkit-proposal.git"
+  },
+  "author": "Ezra Khairan Permana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reacto11mecha/lampkit-proposal/issues"
+  },
+  "homepage": "https://github.com/reacto11mecha/lampkit-proposal#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.3"
+  }
+}
