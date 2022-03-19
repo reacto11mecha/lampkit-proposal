@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/reacto11mecha/lampkit-proposal#readme",
   "dependencies": {
+    "istextorbinary": "^6.0.0",
     "node-fetch": "^3.2.3"
   }
 }
